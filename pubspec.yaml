@@ -1,5 +1,6 @@
 name: log_flutter
 description: A Dart library for easy logging in Flutter applications. Simplify your debugging process with customizable log messages and seamless integration with Flutter's logging system. Enhance your development workflow and get started quickly with log_flutter.
+repository: https://github.com/KiranKumar-NS/dart-Packages/
 
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
@@ -16,3 +17,4 @@ dependencies:
 dev_dependencies:
   lints: ^2.1.0
   test: ^1.24.0
+  
